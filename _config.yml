@@ -1,0 +1,8 @@
+# Site settings
+title: upc-site
+author: Owen Weeks
+email: ohweeks@gmail.com
+description: "CTM UPC information"
+
+# Build settings
+remote_theme: jekyll/minima
