@@ -1,8 +1,6 @@
 ---
-title: upc-site
-author: Owen Weeks
-email: ohweeks@gmail.com
-description: "CTM UPC information"
+layout: page
+title: Home
 ---
 
 # Cwm Taf Morgannwg Urgent Primary Care
