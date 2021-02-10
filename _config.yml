@@ -5,4 +5,4 @@ email: ohweeks@gmail.com
 description: "CTM UPC information"
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll-theme-tactile
